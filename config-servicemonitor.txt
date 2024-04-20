@@ -1,0 +1,7 @@
+to=["recipient@domain.com"]
+sender=sender@domain.com
+template_id=123456
+API_KEY=api-123456789abcdefg
+eventId=1026
+eventSource=.Net Runtime
+keyword=xpo.svc.agent
