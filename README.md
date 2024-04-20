@@ -1,5 +1,4 @@
-# winservicemonitoring
-Windows Service Monitoring and Notification
+# Windows Service Monitoring and Notification
 
 This script is to monitor a specific Windows event and trigger email notifications upon detection. It is intended to be used in conjunction with the Windows Task Scheduler, which will be configured to execute the script in response to the monitored event.
 
